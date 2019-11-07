@@ -1,9 +1,11 @@
-package uk.co.vodafone.asapgw.operationhandler;
-
+package uk.co.vodafone.asapgw.operationhandl
+mock (test) universal
 
 import static uk.co.vodafone.asapgw.util.ASAPGWConstants.DUAL_MODIFY_RESP_DELAY;
 import static uk.co.vodafone.asapgw.util.ASAPGWConstants.DUAL_SUBADMIN_MODIFY_RESP_DELAY;
 import static uk.co.vodafone.asapgw.util.ASAPGWConstants.IMSI;
+mockito testis is not done this claass
+junit also yet tobe written
 import static uk.co.vodafone.asapgw.util.ASAPGWConstants.RUNMODE;
 import static uk.co.vodafone.asapgw.util.ASAPGWConstants.SECONDARY_PROV;
 import static uk.co.vodafone.asapgw.util.ASAPGWConstants.SOAP_PROTOCOL;
